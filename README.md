@@ -2,4 +2,5 @@ Nama : Faishal Pradana
 Kelompok : Amber
 
   Jadi repository saya ini berisi hasil kerja terkait tugas pemrograman dasar TLS. Ada 2 problem yang tersedia yaitu Problem 1 The Last Astronaut dan Problem 2 yaitu Alien In The Middle. Nah, untuk problem 1 sendiri saya memakai pseudocode karena memang prosesnya yang sedikit rumit. Sedangkan, untuk problem 2 sendiri saya memakai flowchart karena lebih sederhana. 
-  Di problem 1, saya memakai looping for karena batas yang ditentukan adalah sampai akhir
+  Di problem 1, saya memakai looping for karena proses untuk menghapus astronot dari array itu membutuhkan langkah yang jelas dan berurutan, yaitu mulai dari index astronot yang dihapus sampai indeks terakhir. Jadi, for digunakan karena jumlah langkah pergeseran dapat ditentukan dari posisi index sampai jumlah-1. 
+  Di problem 2, saya memakai looping while. Kenapa? tujuannya karena program membaca karakter demi karakter sampai menemukan tanda akhir '\0'. Dan juga karena panjang pesan tidak ditentkan secara langsung oleh program, while lebih mudah digunakan. Jadi, program akan terus mempreoses karakter selama karakter yang dibaca belum '\0'. 
